@@ -1,6 +1,6 @@
 # Ionic 4 InAppBrowser Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 InAppBrowser Tutorial](https://youtu.be/Z7KqlvQm3oU) as well as the blog article [Ionic 4 InAppBrowser Tutorial](https://blog.jamibot.com/ionic-in-app-browser).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 InAppBrowser Tutorial](https://youtu.be/Z7KqlvQm3oU) as well as the blog article [Ionic 4 InAppBrowser Tutorial](https://blog.jamibot.com/ionic-4-in-app-browser).
 
 [![Ionic 4 InAppBrowser Tutorial](https://img.youtube.com/vi/Z7KqlvQm3oU/maxresdefault.jpg)](https://youtu.be/Z7KqlvQm3oU)
 
