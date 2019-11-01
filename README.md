@@ -1,12 +1,12 @@
 # Ionic 4 InAppBrowser Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 InAppBrowser Tutorial](https://youtu.be/Z7KqlvQm3oU) as well as the blog article [Ionic 4 InAppBrowser Tutorial](https://blog.jamibot.com/ionic-4-in-app-browser).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 InAppBrowser Tutorial](https://youtu.be/Z7KqlvQm3oU) as well as the blog article [Ionic 4 InAppBrowser Tutorial](https://blog.jamibot.com/ionic-4-in-app-browser).
 
 [![Ionic 4 InAppBrowser Tutorial](https://img.youtube.com/vi/Z7KqlvQm3oU/maxresdefault.jpg)](https://youtu.be/Z7KqlvQm3oU)
 
 A minimal example of how to get the Ionic 4 In App Browser working on your own site.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development tutorials.
 
 ## Installation
 
